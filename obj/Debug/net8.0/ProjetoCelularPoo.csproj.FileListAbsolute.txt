@@ -1,0 +1,14 @@
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\bin\Debug\net8.0\ProjetoCelularPoo.exe
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\bin\Debug\net8.0\ProjetoCelularPoo.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\bin\Debug\net8.0\ProjetoCelularPoo.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\bin\Debug\net8.0\ProjetoCelularPoo.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\bin\Debug\net8.0\ProjetoCelularPoo.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\refint\ProjetoCelularPoo.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ProjetoCelularPoo.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoCelularPoo\obj\Debug\net8.0\ref\ProjetoCelularPoo.dll
